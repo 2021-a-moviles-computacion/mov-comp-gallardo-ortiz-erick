@@ -1,0 +1,7 @@
+se guardan todos en el mismo archivo
+se guardara separados con : para saber que tiene otro dato y ; para saber que no existe mas
+se matcheara los entrenadores con los jugadores con un numero guardado
+seleciona si es jugador o entrenador
+puede elegir las 4 opciones independiente de la eleccion anterior
+primero cargar el bucado y luego los jugadores o al equipo que pertenece
+caracteres: cedula, nombre, rol, num_camiseta o equipo(entrenador)
